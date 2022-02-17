@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Promedio en Android</string>
+    <string name="mensaje_result">Promedio del alumno</string>
+    <string name="mensaje_semestre1">Primer semestre</string>
+    <string name="mensaje_semestre2">Segundo semestre</string>
+    <string name="mensaje_examen">Nota de examen final</string>
+    <string name="promediar">promediar</string>
+
+
+</resources>
